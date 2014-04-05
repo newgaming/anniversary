@@ -7,14 +7,17 @@ body {
 	padding: 30px;
     height: 100%;
 }
-h1 {
+h1, p, ol , h6{
     color: #800000;
+}
+h1 {
+    
     text-align:center;
     font-size: 3em;
 }
 p {
 	font-size: 1.2em;
-	color: #800000;
+	
     padding-bottom: 20px;
 }
 body a {
@@ -28,7 +31,4 @@ body a {
     width: 100px;
     margin: 0 auto;
     display: block;
-}
-h6{
-	color: #800000;
 }
