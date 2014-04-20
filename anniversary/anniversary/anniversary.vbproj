@@ -88,6 +88,7 @@
     <Content Include="first-kiss.html" />
     <Content Include="first-meeting.html" />
     <Content Include="index.html" />
+    <Content Include="something-sexual.html" />
     <Content Include="styles\general.css" />
     <Content Include="Web.config" />
   </ItemGroup>
